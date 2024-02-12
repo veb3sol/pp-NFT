@@ -19,6 +19,9 @@ header {
     background-image: url(../img/logo.svg);
     background-repeat: no-repeat;
 }
+.form {
+    position: relative;
+}
 .header__list {
     display: flex;
     list-style-type: none;
